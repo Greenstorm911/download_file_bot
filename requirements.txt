@@ -1,0 +1,9 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+pyTelegramBotAPI==4.20.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+requests==2.32.3
+telebot==0.0.5
+urllib3==2.2.2
