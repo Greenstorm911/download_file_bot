@@ -3,7 +3,7 @@ import os
 import magic
 from utils import get_extension_from_mime
 # token bot 
-API_TOKEN = "6752827817:AAFk9rg2C07hO8mmdde_B8IgUqi8RtbhViI"
+API_TOKEN = ""
 
 bot = telebot.TeleBot(API_TOKEN)
 file_magic = magic.Magic(mime=True)
